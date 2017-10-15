@@ -1,5 +1,5 @@
 # Minesweeper
-A basic Android implementation of the game *Minesweeper*.
+An Android application that implements the basic features of the game *Minesweeper*.
 
 ## How To Run
 ```
