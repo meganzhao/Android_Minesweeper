@@ -18,4 +18,5 @@ win the game if all three mine fields are placed flags.
 
 ![Alt text](img-demo/img1.png?raw=true "Title")
 ![Alt text](img-demo/img2.png?raw=true "Title")
+![Alt text](img-demo/img3.png?raw=true "Title")
 
